@@ -1,0 +1,3 @@
+[submodule "projects/mnist-cnn"]
+	path = projects/mnist-cnn
+	url = https://github.com/2409324124/mnist-cnn-my-first-dl-project.git
